@@ -11,10 +11,10 @@
 - 💡 Deliver a clean, user-friendly dashboard experience with smart narratives and thematic visuals.
 
 📌 Key Features
-✅ Interactive Dashboards with Slicers for:
-- Region
-- Age Group
-- Store & Manager
+- ✅ Interactive Dashboards with Slicers for:
+  - Region
+  - Age Group
+  - Store & Manager
 
 📸 Dashboard Previews
 - Including visual previews of your dashboards can greatly enhance the readability and appeal of your README. Here's how you might incorporate them:
