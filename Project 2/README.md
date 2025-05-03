@@ -23,3 +23,10 @@
    - Forecasting Insights
    - KPI & Sales Target Dashboard
 
+🧠 Business Insights Extracted
+- Insight	Description:
+  - 📍 Top Category	Electronics led all categories in total sales
+  - 🌎 Best Region	South region recorded the highest sales
+  - 📅 Peak Months	December, followed by August and January
+  - 🧑‍🤝‍🧑 Gender Trends	Slightly higher sales from female customers (53%)
+  - 📉 Forecast Insight	Seasonal dip in sales projected after March 2025
