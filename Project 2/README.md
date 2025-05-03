@@ -32,4 +32,18 @@
   - 📉 Forecast Insight	Seasonal dip in sales projected after March 2025
 
 📘 About
-This Power BI project applies data storytelling and visualization to explore global consumer behavior. With custom DAX metrics, smart narratives, and a strong analytical foundation, it serves as a blueprint for real-world business intelligence solutions in retail and marketing domains.
+- This Power BI project applies data storytelling and visualization to explore global consumer behavior. With custom DAX metrics, smart narratives, and a strong analytical foundation, it serves as a blueprint for real-world business intelligence solutions in retail and marketing domains.
+
+🛠️ Tools & Technologies
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query (ETL)
+- Microsoft Bing Maps (for geo-analysis)
+
+📁 Repository Structure
+- 📸 Dashboard Previews
+Dashboard	Preview
+Consumer Trends Overview	
+Demographic Impact	
+Forecasting Insights	
+KPI & Sales Target Dashboard	
