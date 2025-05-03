@@ -18,7 +18,8 @@
 
 📸 Dashboard Previews
 - Including visual previews of your dashboards can greatly enhance the readability and appeal of your README. Here's how you might incorporate them:
-   Consumer Trends Overview
-   Demographic Impact
-   Forecasting Insights
-   KPI & Sales Target Dashboard
+   - Consumer Trends Overview
+   - Demographic Impact
+   - Forecasting Insights
+   - KPI & Sales Target Dashboard
+
