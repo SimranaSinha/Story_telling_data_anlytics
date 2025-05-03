@@ -40,14 +40,7 @@
 - Power Query (ETL)
 - Microsoft Bing Maps (for geo-analysis)
 
-📁 Repository Structure
-- 📸 Dashboard Previews
-| Dashboard                  | Preview |
-|---------------------------|---------|
-| **Consumer Trends Overview** | ![Consumer Trends](Project 2/Dashboard Screenshot/Consumer_Spending_&_KPI.png) |
-| **Demographic Impact**       | ![Demographic Impact](Dashboard_Screenshots/Demographic-Impact.png)     |
-| **Forecasting Insights**     | ![Forecasting](Dashboard_Screenshots/Forecasting-Insights.png)          |
-| **KPI & Sales Dashboard**    | ![KPI Dashboard](Dashboard_Screenshots/KPI-Sales-Target.png)            |
+
 
 
 
