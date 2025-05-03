@@ -30,3 +30,6 @@
   - 📅 Peak Months	December, followed by August and January
   - 🧑‍🤝‍🧑 Gender Trends	Slightly higher sales from female customers (53%)
   - 📉 Forecast Insight	Seasonal dip in sales projected after March 2025
+
+📘 About
+This Power BI project applies data storytelling and visualization to explore global consumer behavior. With custom DAX metrics, smart narratives, and a strong analytical foundation, it serves as a blueprint for real-world business intelligence solutions in retail and marketing domains.
