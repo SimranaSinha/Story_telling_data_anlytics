@@ -48,10 +48,5 @@ Demographic Impact
 Forecasting Insights	
 KPI & Sales Target Dashboard
 
-| Dashboard                  | Preview |
-|---------------------------|---------|
-| **Consumer Trends Overview** | ![Consumer Trends](Dashboard_Screenshots/Consumer-Trends-Overview.png) |
-| **Demographic Impact**       | ![Demographic Impact](Dashboard_Screenshots/Demographic-Impact.png)     |
-| **Forecasting Insights**     | ![Forecasting](Dashboard_Screenshots/Forecasting-Insights.png)          |
-| **KPI & Sales Dashboard**    | ![KPI Dashboard](Dashboard_Screenshots/KPI-Sales-Target.png)            |
+
 
