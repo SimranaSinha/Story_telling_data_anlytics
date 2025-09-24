@@ -42,10 +42,10 @@
 
 | Dashboard | Preview |
 |----------|--------|
-| Consumer Trends Overview | ![](./Dashboard_Screenshot/Customer_Shopping_Sales_Trend_Analysis.png) |
-| Demographic Impact | ![](./Dashboard_Screenshots/Demographic_and_Regional_Impact_on_Consumer_Sales.png) |
-| Forecasting Insights | ![](./Dashboard_Screenshots/Spending_Trends_and_Forecasting.png) |
-| KPI & Sales Target Dashboard | ![](./Dashboard_Screenshots/Consumer_Spending_&_KPI.png) |
+| Consumer Trends Overview | ![](./Project2/Dashboard_Screenshot/Customer_Shopping_Sales_Trend_Analysis.png) |
+| Demographic Impact | ![](./Dashboard_Screenshot/Demographic_and_Regional_Impact_on_Consumer_Sales.png) |
+| Forecasting Insights | ![](./Dashboard_Screenshot/Spending_Trends_and_Forecasting.png) |
+| KPI & Sales Target Dashboard | ![](./Dashboard_Screenshot/Consumer_Spending_&_KPI.png) |
 
 ---
 
